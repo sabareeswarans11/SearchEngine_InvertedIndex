@@ -21,12 +21,12 @@ Cosine similarity is a metric used to determine how similar the documents are ir
 
 From the above results we can conclude that,
 
-1 Doc 1 – Machine Learning,
-2 Doc 2- Engineering, 
-3 Doc 3 – research, 
-4 Doc 4 – Data mining,
-5 Doc 5 – Data mining # datamining
-6 Doc 6- ss chung
+1) Doc 1 – Machine Learning,
+2) Doc 2- Engineering, 
+3) Doc 3 – research, 
+4) Doc 4 – Data mining,
+5) Doc 5 – Data mining # datamining
+6) Doc 6- ss chung
 
 Eliminating 1.0 cosine score, because comparing the same document (di,di) will give 1.0 which is useless for analysis.
 
