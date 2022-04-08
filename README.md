@@ -7,7 +7,7 @@ SearchEngine_Inverted Index.ipyn: This is the source code file. Which has Four m
 retrieval. (Cross-platform Application software support with python -- Tkinter)
 
 # Dataset Link
-wiki page 
+Wiki page 
 1) https://en.wikipedia.org/wiki/Machine_learning
 2) https://en.wikipedia.org/wiki/Engineering
 3) http://my.clevelandclinic.org/research
