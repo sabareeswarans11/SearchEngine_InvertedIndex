@@ -8,12 +8,12 @@ retrieval. (Cross-platform Application software support with python -- Tkinter)
 
 # Dataset Link
 wiki page 
-1)https://en.wikipedia.org/wiki/Machine_learning
-2)https://en.wikipedia.org/wiki/Engineering
-3)http://my.clevelandclinic.org/research
-4)https://en.wikipedia.org/wiki/Data_mining
-5)https://en.wikipedia.org/wiki/Data_mining#Data_mining
-6)http://cis.csuohio.edu/~sschung/
+1.https://en.wikipedia.org/wiki/Machine_learning
+2.https://en.wikipedia.org/wiki/Engineering
+3.http://my.clevelandclinic.org/research
+4.https://en.wikipedia.org/wiki/Data_mining
+5.https://en.wikipedia.org/wiki/Data_mining#Data_mining
+6.http://cis.csuohio.edu/~sschung/
 
 # Final Result and Conclusion
 Computing Similarity between the documents using Cosine similarity metrics
