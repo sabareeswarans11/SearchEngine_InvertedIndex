@@ -1,0 +1,7 @@
+	document-1	document-2	document-3	document-4	document-5	document-6
+document-1	1.0	0.82	0.61	0.87	0.87	0.61
+document-2	0.82	1.0	0.61	0.78	0.78	0.55
+document-3	0.61	0.61	1.0	0.59	0.59	0.49
+document-4	0.87	0.78	0.59	1.0	1.0	0.65
+document-5	0.87	0.78	0.59	1.0	1.0	0.65
+document-6	0.61	0.55	0.49	0.65	0.65	1.0
