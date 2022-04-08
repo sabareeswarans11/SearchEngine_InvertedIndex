@@ -32,17 +32,17 @@ Eliminating 1.0 cosine score, because comparing the same document (di,di) will g
 
 Top matches sorted 
 
-(Doc4, Doc5) -1 similar matches, content of Doc5 is the part of Doc4.
-(Doc1, Doc4)-0.87 Similar matches Machine Learning vs Data mining
-(Doc1, Doc2)- 0.82 Similar matches Machine Learning vs Engineering
-(Doc2, Doc4)- 0.78 Similar matches Engineering vs Data mining
-(Doc5, Doc6)-0.65 Similar matches
-(Doc 1, Doc 6)-0.61 Similar matches
-(Doc 1, Doc 3)-0.61 Similar matches
-(Doc 2, Doc 3)-0.61 Similar matches
-(Doc 3, Doc 4)-0.59 Similar matches
-(Doc 3, Doc 5)-0.59 Similar matches
-(Doc 2, Doc 6)-0.55 Similar matches
+1) (Doc4, Doc5) -1 similar matches, content of Doc5 is the part of Doc4.
+2) (Doc1, Doc4)-0.87 Similar matches Machine Learning vs Data mining
+3) (Doc1, Doc2)- 0.82 Similar matches Machine Learning vs Engineering
+4) (Doc2, Doc4)- 0.78 Similar matches Engineering vs Data mining
+5) (Doc5, Doc6)-0.65 Similar matches
+6) (Doc 1, Doc 6)-0.61 Similar matches
+7) (Doc 1, Doc 3)-0.61 Similar matches
+8) (Doc 2, Doc 3)-0.61 Similar matches
+9) (Doc 3, Doc 4)-0.59 Similar matches
+10) (Doc 3, Doc 5)-0.59 Similar matches
+11) (Doc 2, Doc 6)-0.55 Similar matches
 
 
 
