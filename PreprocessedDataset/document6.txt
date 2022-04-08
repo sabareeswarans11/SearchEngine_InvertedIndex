@@ -1,0 +1,151 @@
+ 
+dr sunnie sun chungs big data analytics and cyber security lab cleveland state univeristy
+big data analytics ai and cyber security lab
+dr sunnie sun chung
+see the college magazine article featuring dr sunnie sun chung and big data lab
+electrical engineering and computer science eecs cleveland state univerity
+email schungcsuohioedu
+researchcurrent
+publicationscurrent
+teachingcurrent
+peoplecurrent
+big data analytics ai and cyber security lab
+big data is changing every aspect of modern life
+research in big data lab focus on how to shape the changes by big data better
+learn more
+research areas
+text analysis with natural language processing
+  big data analytics in text mining with natural language processing
+  context aware medical question answering system with natural language processing machinelearning deeplearning   machinelearning based intrusion detection in wifi network systems
+  deeplearning for image question answering system
+cyber security
+  cyber security and privacy in cloud based big data data analytic systems
+  privacy models of cloud based iot
+real time
+  real time sentimentopinion analysis of social network
+  sentimentopinion analysis of social network for prediction of presidential election
+big data analytics
+  temporal and spatial data processing for sport analytics
+  machinelearning based identification of food desert defect in urban development
+optimization
+  optimization of big data processing and parallel processing system
+selected recent publications last years only
+peerreviewed journal publications
+sun sunnie chung and andrew yu  temporal and spatial data processing for basketball game analytics for indentification of nba onball screen offensive play  in the he ieee transactions on emerging topics in computational intelligence tetci vol issue issn print dec sun sunnie chung and andrew yu  automatic identification and analysis of basketball plays nba onball screens  in the international journal of networked and distributed computing ijndc vol issue issn print issn online july sun sunnie chung and danielle aring integrated realtime big data stream sentiment analysis service in journal of data analysis and information processing vol no issn print issn online april dorothy yiyan zhao and sun sunnie chung machinelearning based identification of food desert defect in urban development working progress to be submitted to journal of data analysis and information processing may peerreviewed conference proceedings
+mike d arcy and sun sunnie chung  unsupervised topic model based text network construction for learning word embeddings  in the proceedings of the th ieee international conference on machinelearning and applications boca raton florida dec jinjie liu and sun sunnie chung  unsupervised automatic feature selection for machinelearning based wifi network intrusion detection  in the proceedings of the th ieee international conference on machinelearning and applications boca raton florida dec sun sunnie chung and jinjie liu  automatic feature extraction and selection for machinelearning based intrusion detection  in the proceedings of the th ieee international conference on advanced and trusted computing leicester uk august sunnie s chung and andrew yu framework for analysis and prediction of nba basketball plays in the proceedings of the th ieee international conference on advanced and trusted computing leicester uk august andrew yu and sun sunnie chung automatic identification and analysis of basketball plays nba onball screens in the proceedings of the th ieee international conference on big data cloud computing and data science engineering honolulu may peerreviewed book chapters
+andrew yu and sun sunnie chung automatic identification and analysis of basketball plays nba onball screens invited to be published in springers studies in computational intelligence may peerreviewedprofessional workshopsymposium presentations
+sunnie s chung
+and danielle aring  integrated realtime social media sentiment analysis using a big data analytic ecosystem  presentation in the workshop on big data and hadoop distributed file system cleveland oh nov pan li and sunnie s chung  federated experimental cyber infrastructure testbed excit industry and academia collaboration on iot with case western reserve university presentation and research demo in iot collaborative symposium may invited talks
+invited talk to ieee women engineering society invited talks on opinion analysis of social media data jan invited talk to ieee computing society invited talk on big data analytics august research postersdemo
+jinjie liu and sun sunnie chung  deep feature extraction and selection for network intrusion detection  in research day of engineering college oct mike d arcy utkarsh patel and sunnie s chung on  natural language processing with machinelearning for semantic document search engine  in research day of engineering college oct sunnie s chung and danielle aring  integrated realtime social media sentiment analysis using a big data analytic ecosystem  in research day of engineering college oct undergraduate summer research
+mike d arcy utkarsh patel on  semantic document search with machinelearning   summer funded by csu
+mike d arcy on  semantic document search with machinelearning   summer funded by csu
+research grants proposals last years only
+brought the initial funding approval of the establishment of million over six years for internet of things collaborative iotc between csu and case western reserve university funded by the cleveland foundation
+iot collaborative pilot grant proposal titled  protect privacy in a distributed learning platform with a natural language processing example  in collaboration with mingchun huang cwru awarded on dec in the amount of nsf computer and network systems cns grant proposal titled  democratized computing system design for privacysensitive cloudedge environment  submitted on nov initial seed grant proposal to cleveland foundation for data analytics and cyber security sunnie chung dec under acknowledgement of formal csu president berkman and executive resident dr julien earl now developed to iot collaborative cwrucsu lead by dean sridhar
+iot collaborative grant award federated experimental cyber infrastructure testbed excit industry and academia collaboration pan li cwru sunnie chung and wenbing zhao csu award on may frdiot proposal on cyber security and privacy in iot infrastructures on public cloud sept grant proposal sunnie chungcsu pan li case  cyber security and privacy of iot on public cloud with encrypted database querying  to cleveland foundation july nsf proposal intension sunnie chung douglas meil ibm and brian durkin progressive intent of submission of proposal for award abstract in bd hubs midwest seedcorn
+teaching grants proposals last years only
+university tech support award for big data teaching lab in computer science awarded in the amount of april built big data analytics research lab fh in eecs dept college of engineering sept grant proposal on crossdisciplinary course development for big data analytics systems in cloud based iot  sunnie chung csu pan li case western reserve university to cleveland foundation july award winning senior research projects
+cerebro real time security service
+the first prize winner of senior design in college of engineering
+by nick white et al
+semantic document search with machinelearning sharesci the best cs senior project winner of by mike darcy and utkarsh patel
+urban real estate analytic service the candidate of best senior project in college of engineering
+by joel stell et al document search engine for collaborative content management
+by nick mccoy benjamin mckinsey et al
+selective publications before research publications
+sun s chung d chung  fault detection and diagnostics using datamining   in the proceeding of th wceam international conference on engineering asset management hongkong china oct sun s chung d chung  integrated asset management with customized data warehouse  th wceam international conference on engineering asset management deajeon south korea oct white paper on completed kelly benchmark performance optimization of secondary join index processing for temporal tables in temporal database in in mpp parallel data warehouse pdw system optimizer rd dbs teradata corp el segundosan diego survey paper on research proposal and presentation on optimization of correlated subquery processing in major dbms industry teradata corp el segundosan diego white paper on research project building sqlmap reduce for big data processing in in mpp parallel data warehouse pdw system teradata corp el segundosan diego white paper on building temporal database in in mpp parallel data warehouse pdw system teradata corp el segundosan diego white paper on join index processing for columnar partitioning database in mpp parallel data warehouse pdw system teradata corp el segundosan diego invention disclosure record idr for teradata on extension of null equality optimization in the query rewrite system  in the process of
+patent under teradata corp el segundosan diego white paper on predicate simplification optimization for query rewrite subsystem in data warehouse system teradata ncr el segundosan diego white paper on marknullequal query optimization in query rewrite subsystem in data warehouse system teradata ncr el segundosan diego processing aggregate queries over encrypted databases
+sun s chung gultekin ozsoyoglu accepted to
+nd international ieee workshop on privacy data managementjoint with icde april antitamper databases part i querying encrypted databases
+sun chung david singer and gultekin ozsoyoglu
+vldb journal on privacy preserving data management
+september querying encrypted databases part ii processing aggregate queries
+sun chung and gultekin ozsoyoglu journal of privacy technology antitamper database querying encrypted databases extended work
+gultekin ozsoyoglu david singer and sun chung in book chapter of research directions in data and application security xviii
+sabrina de capitani di vimercati et al eds kluwer academic publisher prague boston antitamper database querying encrypted databases
+gultekin ozsoyoglu david singer and sun chung in proceedings of th ifip international conference on data and application security estate park colorado usa august phd thesis
+database security antitamper databases querying encrypted databases
+sun s chung
+department of eecs case western reserve university september teaching
+advanced topics in database systems for big data
+cis cis enterprise database systems and data warehouse with olap
+cis cis big data and parallel data processing systems
+view details  
+big data analytics with machinelearning cis cis datamining data analytics and machinelearning cis special topics on data analytics and big data processing
+cis graduate seminar in computer science
+view details  
+enterprise databases
+ist enterprise databases
+view details  
+databases
+cis database systems and processing
+cis cis big data
+ist modern database design and implementation
+view details  
+other courses
+cis internet computing web application
+cis multimedia
+cis system analysis methods
+view details  
+introduction
+cis introduction to programming in java
+esc introduction to engineering design
+esc c programming
+view details  
+people
+see the article in page about big data lab and dr sunnie chung faculty dr sunnie sun chung
+phd students
+  yixi luo
+  asanka kavinda mananayaka
+  amro h handousa
+master thesis students
+  sean riehl ms thesis title  property recommendation system with geospatial data analytics and natural language processing for urban land use 
+  yiyuan dorothy zhao honor thesis thesis title   machinelearning based identification of food desert defect in urban development 
+  labhesh popoli ms thesis title  an attention based deep neural network for visual question answering system 
+  danielle aring ms thesis title  integrated realtime social media sentiment analysis using a big data analytic ecosystem 
+  andrew yu ms thesis title automatic identification and analysis of basketball plays nba onball screens
+master project students during last years only master research project students in independent study project social media opinion analysis system on legislative congress bills
+research members
+nicholas e cleary
+nathan dixon
+ian wu
+aidan zapotechne
+senior project students during last years only senior students in the prize winning senior project teams senior students currently in the senior research projects this year
+post graduate student success from big data lab during last years only
+selective list of the prestigious industry and academia where our big data lab students landed after graduation
+mr michael d arcy in phd at north western university
+mr utkarsh patel in master at university of southern california usc
+mr nick white facebook
+ms suhua wei amazon
+mr durga p dasepalli amazon
+mr srinivas tejomurthula oracle
+ms danielle aring first energy she was the first csu graduated data scientist
+mr andrew yu now teaching at penn state university erie the behrend college
+list of prestigious local industry where countless big data graduates are currently with
+cleveland clinic
+rockwell
+progressive
+sherwin williams
+parker hannifin
+metro health
+medical mutual
+hyland software
+first energy
+ibm health
+pnc bank
+key bank
+jp morgan chase bank
+young earnst accounting firm
+rock roll hall of fame
+so many more in this list
+big data analytic research members machine learing with nlp for text analysis research team big data processing and machinelearning for text analysis senior design team big data analytic research members urban real estate project team senior design team in the ieee international conference on big data at hawaii
+big data lab workshop big data lab workshop send email to find out how to start learning and research big data analytics
+name
+please enter your name
+email
+please enter a valid email address
+message
+please enter a message
+send
+csuohio

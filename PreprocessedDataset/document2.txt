@@ -1,0 +1,1222 @@
+engineering wikipedia
+engineering
+from wikipedia the free encyclopedia
+jump to navigation
+jump to search
+this article is about the general field called engineering for the design and building of actual engines see engine
+for other uses see engineering disambiguation
+applied science
+engineering
+history
+outline
+glossary
+al
+mz
+category
+portal
+vte
+the insight lander with solar panels deployed in a cleanroom
+the steam engine the major driver in the industrial revolution underscores the importance of engineering in modern history this beam engine is on display in the technical university of madrid
+engineering is the use of scientific principles to design and build machines structures and other items including bridges tunnels roads vehicles and buildings the discipline of engineering encompasses a broad range of more specialized fields of engineering each with a more specific emphasis on particular areas of applied mathematics applied science and types of application see glossary of engineering
+the term engineering is derived from the latin ingenium meaning cleverness and
+ingeniare meaning to contrive devise
+contents definition history ancient era middle ages modern era main branches of engineering chemical engineering civil engineering electrical engineering mechanical engineering bioengineering interdisciplinary engineering other branches of engineering aerospace engineering marine engineering computer engineering geological engineering practice methodology problem solving computer use social context code of ethics relationships with other disciplines science medicine and biology art business other fields see also references further reading external links
+definition
+the american engineers council for professional development ecpd the predecessor of abet has defined engineering as
+the creative application of scientific principles to design or develop structures machines apparatus or manufacturing processes or works utilizing them singly or in combination or to construct or operate the same with full cognizance of their design or to forecast their behavior under specific operating conditions all as respects an intended function economics of operation and safety to life and property
+history
+main article history of engineering
+relief map of the citadel of lille designed in by vauban the foremost military engineer of his age
+engineering has existed since ancient times when humans devised inventions such as the wedge lever wheel and pulley etc
+the term engineering
+is derived from the word engineer which itself dates back to the th century when an engineer literally one who builds or operates a siege engine referred to a constructor of military engines in this context now obsolete an engine referred to a military machine ie a mechanical contraption used in war for example a catapult notable examples of the obsolete usage which have survived to the present day are military engineering corps eg the us army corps of engineers
+the word engine itself is of even older origin ultimately deriving from the latin ingenium c meaning innate quality especially mental power hence a clever invention
+later as the design of civilian structures such as bridges and buildings matured as a technical discipline the term civil engineering entered the lexicon as a way to distinguish between those specializing in the construction of such nonmilitary projects and those involved in the discipline of military engineering
+ancient era
+the ancient romans built aqueducts to bring a steady supply of clean and fresh water to cities and towns in the empire
+the pyramids in ancient egypt ziggurats of mesopotamia the acropolis and parthenon in greece the roman aqueducts via appia and colosseum teotihuac n and the brihadeeswarar temple of thanjavur among many others stand as a testament to the ingenuity and skill of ancient civil and military engineers other monuments no longer standing such as the hanging gardens of babylon and the pharos of alexandria were important engineering achievements of their time and were considered among the seven wonders of the ancient world
+the six classic simple machines were known in the ancient near east the wedge and the inclined plane ramp were known since prehistoric times the wheel along with the wheel and axle mechanism was invented in mesopotamia modern iraq during the th millennium bc the lever mechanism first appeared around years ago in the near east where it was used in a simple balance scale and to move large objects in ancient egyptian technology the lever was also used in the shadoof waterlifting device the first crane machine which appeared in mesopotamia circa bc and then in ancient egyptian technology circa bc the earliest evidence of pulleys date back to mesopotamia in the early nd millennium bc and ancient egypt during the twelfth dynasty bc the screw the last of the simple machines to be invented first appeared in mesopotamia during the neoassyrian period bc the egyptian pyramids were built using three of the six simple machines the inclined plane the wedge and the lever to create structures like the great pyramid of giza
+the earliest civil engineer known by name is imhotep as one of the officials of the pharaoh djos r he probably designed and supervised the construction of the pyramid of djoser the step pyramid at saqqara in egypt around  bc the earliest practical waterpowered machines the water wheel and watermill first appeared in the persian empire in what are now iraq and iran by the early th century bc
+kush developed the sakia during the th century bc which relied on animal power instead of human energyhafirs were developed as a type of reservoir in kush to store and contain water as well as boost irrigation sappers were employed to build causeways during military campaigns kushite ancestors built speos during the bronze age between and bcbloomeries and blast furnaces were also created during the th centuries bc in kush
+ancient greece developed machines in both civilian and military domains the antikythera mechanism an early known mechanical analog computer and the mechanical inventions of archimedes are examples of greek mechanical engineering some of archimedes inventions as well as the antikythera mechanism required sophisticated knowledge of differential gearing or epicyclic gearing two key principles in machine theory that helped design the gear trains of the industrial revolution and are still widely used today in diverse fields such as robotics and automotive engineering
+ancient chinese greek roman and hunnic armies employed military machines and inventions such as artillery which was developed by the greeks around the th century bc the trireme the ballista and the catapult in the middle ages the trebuchet was developed
+middle ages
+the earliest practical windpowered machines the windmill and wind pump first appeared in the muslim world during the islamic golden age in what are now iran afghanistan and pakistan by the th century ad the earliest practical steampowered machine was a steam jack driven by a steam turbine described in by taqi aldin muhammad ibn maruf in ottoman egypt
+the cotton gin was invented in india by the th century ad and the spinning wheel was invented in the islamic world by the early th century both of which were fundamental to the growth of the cotton industry the spinning wheel was also a precursor to the spinning jenny which was a key development during the early industrial revolution in the th century
+the earliest programmable machines were developed in the muslim world a music sequencer a programmable musical instrument was the earliest type of programmable machine the first music sequencer was an automated flute player invented by the banu musa brothers described in their book of ingenious devices in the th century in aljazari invented programmable automatarobots he described four automaton musicians including drummers operated by a programmable drum machine where they could be made to play different rhythms and different drum patterns the castle clock a hydropowered mechanical astronomical clock invented by aljazari was the first programmable analog computer
+a waterpowered mine hoist used for raising ore ca before the development of modern engineering mathematics was used by artisans and craftsmen such as millwrights clockmakers instrument makers and surveyors
+aside from these professions universities were not believed to have had much practical significance to technology a standard reference for the state of mechanical arts during the renaissance is given in the mining engineering treatise de re metallica which also contains sections on geology mining and chemistry
+de re metallica was the standard chemistry reference for the next years
+modern era
+the application of the steam engine allowed coke to be substituted for charcoal in iron making lowering the cost of iron which provided engineers with a new material for building bridges
+this bridge was made of cast iron which was soon displaced by less brittle wrought iron as a structural material
+the science of classical mechanics sometimes called newtonian mechanics formed the scientific basis of much of modern engineering with the rise of engineering as a profession in the th century the term became more narrowly applied to fields in which mathematics and science were applied to these ends similarly in addition to military and civil engineering the fields then known as the mechanic arts became incorporated into engineering
+canal building was an important engineering work during the early phases of the industrial revolution
+john smeaton was the first selfproclaimed civil engineer and is often regarded as the father of civil engineering he was an english civil engineer responsible for the design of bridges canals harbors and lighthouses he was also a capable mechanical engineer and an eminent physicist using a model water wheel smeaton conducted experiments for seven years determining ways to increase efficiency smeaton introduced iron axles and gears to water wheels smeaton also made mechanical improvements to the newcomen steam engine smeaton designed the third eddystone lighthouse  where he pioneered the use of hydraulic lime a form of mortar which will set under water and developed a technique involving dovetailed blocks of granite in the building of the lighthouse he is important in the history rediscovery of and development of modern cement because he identified the compositional requirements needed to obtain hydraulicity in lime work which led ultimately to the invention of portland cement
+applied science lead to the development of the steam engine
+the sequence of events began with the invention of the barometer and the measurement of atmospheric pressure by evangelista torricelli in demonstration of the force of atmospheric pressure by otto von guericke using the magdeburg hemispheres in laboratory experiments by denis papin who built experimental model steam engines and demonstrated the use of a piston which he published in edward somerset nd marquess of worcester published a book of inventions containing a method for raising waters similar to a coffee percolator
+samuel morland a mathematician and inventor who worked on pumps left notes at the vauxhall ordinance office on a steam pump design that thomas savery read in savery built a steam pump called the miners friend it employed both vacuum and pressure iron merchant thomas newcomen who built the first commercial piston steam engine in was not known to have any scientific training jumbo jet
+the application of steampowered cast iron blowing cylinders for providing pressurized air for blast furnaces lead to a large increase in iron production in the late th century
+the higher furnace temperatures made possible with steampowered blast allowed for the use of more lime in blast furnaces which enabled the transition from charcoal to coke these innovations lowered the cost of iron making horse railways and iron bridges practical
+the puddling process patented by henry cort in produced large scale quantities of wrought iron
+hot blast patented by james beaumont neilson in greatly lowered the amount of fuel needed to smelt iron
+with the development of the high pressure steam engine the power to weight ratio of steam engines made practical steamboats and locomotives possible new steel making processes such as the bessemer process and the open hearth furnace ushered in an area of heavy engineering in the late th century
+one of the most famous engineers of the mid th century was isambard kingdom brunel who built railroads dockyards and steamships
+offshore platform gulf of mexico
+the industrial revolution created a demand for machinery with metal parts which led to the development of several machine tools boring cast iron cylinders with precision was not possible until john wilkinson invented his boring machine which is considered the first machine tool other machine tools included the screw cutting lathe milling machine turret lathe and the metal planer
+precision machining techniques were developed in the first half of the th century
+these included the use of gigs to guide the machining tool over the work and fixtures to hold the work in the proper position
+machine tools and machining techniques capable of producing interchangeable parts lead to large scale factory production by the late th century
+the united states census of listed the occupation of engineer for the first time with a count of there were fewer than engineering graduates in the us before in there were a dozen us mechanical engineering graduates with that number increasing to per year in in there were engineers in civil mining mechanical and electrical
+there was no chair of applied mechanism and applied mechanics at cambridge until and no chair of engineering at oxford until germany established technical universities earlier
+the foundations of electrical engineering in the s included the experiments of alessandro volta michael faraday georg ohm and others and the invention of the electric telegraph in and the electric motor in the theoretical work of james maxwell see maxwells equations and heinrich hertz in the late th century gave rise to the field of electronics the later inventions of the vacuum tube and the transistor further accelerated the development of electronics to such an extent that electrical and electronics engineers currently outnumber their colleagues of any other engineering specialty
+chemical engineering developed in the late nineteenth century industrial scale manufacturing demanded new materials and new processes and by the need for large scale production of chemicals was such that a new industry was created dedicated to the development and large scale manufacturing of chemicals in new industrial plants the role of the chemical engineer was the design of these chemical plants and processes
+the solar furnace at odeillo in the pyr n esorientales in france can reach temperatures up to  c  f
+aeronautical engineering deals with aircraft design process design while aerospace engineering is a more modern term that expands the reach of the discipline by including spacecraft design its origins can be traced back to the aviation pioneers around the start of the th century although the work of sir george cayley has recently been dated as being from the last decade of the th century early knowledge of aeronautical engineering was largely empirical with some concepts and skills imported from other branches of engineering
+the first phd in engineering technically applied science and engineering awarded in the united states went to josiah willard gibbs at yale university in it was also the second phd awarded in science in the us
+only a decade after the successful flights by the wright brothers there was extensive development of aeronautical engineering through development of military aircraft that were used in world war i meanwhile research to provide fundamental background science continued by combining theoretical physics with experiments
+main branches of engineering
+for a topical guide to this subject see outline of engineering
+hoover dam
+engineering is a broad discipline that is often broken down into several subdisciplines although an engineer will usually be trained in a specific discipline he or she may become multidisciplined through experience engineering is often characterized as having four main branches chemical engineering civil engineering electrical engineering and mechanical engineering
+chemical engineering
+main article chemical engineering
+chemical engineering is the application of physics chemistry biology and engineering principles in order to carry out chemical processes on a commercial scale such as the manufacture of commodity chemicals specialty chemicals petroleum refining microfabrication fermentation and biomolecule production
+civil engineering
+main article civil engineering
+civil engineering is the design and construction of public and private works such as infrastructure airports roads railways water supply and treatment etc bridges tunnels dams and buildings civil engineering is traditionally broken into a number of subdisciplines including structural engineering environmental engineering and surveying it is traditionally considered to be separate from military engineering
+electrical engineering
+main article electrical engineering
+electric motor
+electrical engineering is the design study and manufacture of various electrical and electronic systems such as broadcast engineering electrical circuits generators motors electromagneticelectromechanical devices electronic devices electronic circuits optical fibers optoelectronic devices computer systems telecommunications instrumentation control systems and electronics
+mechanical engineering
+main article mechanical engineering
+mechanical engineering is the design and manufacture of physical or mechanical systems such as power and energy systems aerospaceaircraft products weapon systems transportation products engines compressors powertrains kinematic chains vacuum technology vibration isolation equipment manufacturing robotics turbines audio equipments and mechatronics
+bioengineering
+main article biological engineering
+bioengineering is the engineering of biological systems for a useful purpose examples of bioengineering research include bacteria engineered to produce chemicals new medical imaging technology portable and rapid disease diagnostic devices prosthetics biopharmaceuticals and tissueengineered organs
+interdisciplinary engineering
+main article list of engineering branches
+interdisciplinary engineering draws from more than one of the principle branches of the practice
+historically naval engineering and mining engineering were major branches
+other engineering fields are manufacturing engineering acoustical engineering corrosion engineering instrumentation and control aerospace automotive computer electronic information engineering petroleum environmental systems audio software architectural agricultural biosystems biomedical geological textile industrial materials and nuclear engineering these and other branches of engineering are represented in the licensed member institutions of the uk engineering council
+new specialties sometimes combine with the traditional fields and form new branches  for example earth systems engineering and management involves a wide range of subject areas including engineering studies environmental science engineering ethics and philosophy of engineering
+other branches of engineering
+aerospace engineering
+main article aerospace engineering
+aerospace engineering studies design manufacture aircraft satellites rockets helicopters and so on it closely studies the pressure difference and aerodynamics of a vehicle to ensure safety and efficiency since most of the studies are related to fluids it is applied to any moving vehicle such as cars
+marine engineering
+main article marine engineering
+marine engineering is associated with anything on or near the ocean examples are but not limited to ships submarines oil rigs structure watercraft propulsion onboard design and development plants harbors and so on it requires a combined knowledge in mechanical engineering electrical engineering civil engineering and some programming abilities
+computer engineering
+main article computer engineering
+computer engineering ce is a branch of engineering that integrates several fields of computer science and electronic engineering
+required to develop computer hardware
+and software
+computer engineers usually have training in electronic engineering or electrical engineering software design and hardwaresoftware integration instead of only software engineering
+or electronic engineering
+geological engineering
+main article geological engineering
+geological engineering is associated with anything constructed on or within the earth this discipline applies geological sciences and engineering principles to direct or support the work of other disciplines such as civil engineering environmental engineering and mining engineering geological engineers are involved with impact studies for facilities and operations that affect surface and subsurface environments such as rock excavations eg tunnels building foundation consolidation slope and fill stabilization landslide risk assessment groundwater monitoring groundwater remediation mining excavations and natural resource exploration
+practice
+  the template below unreferenced section is being considered for merging see templates for discussion to help reach a consensus  this section does not cite any sources please help improve this section by adding citations to reliable sources unsourced material may be challenged and removed june learn how and when to remove this template message
+one who practices engineering is called an engineer and those licensed to do so may have more formal designations such as professional engineer chartered engineer incorporated engineer ingenieur european engineer or designated engineering representative
+methodology
+  the template below more citations needed section is being considered for merging see templates for discussion to help reach a consensus  
+this section needs additional citations for verification please help improve this article by adding citations to reliable sources unsourced material may be challenged and removed june learn how and when to remove this template message
+design of a turbine requires collaboration of engineers from many fields as the system involves mechanical electromagnetic and chemical processes the blades rotor and stator as well as the steam cycle all need to be carefully designed and optimized
+in the engineering design process engineers apply mathematics and sciences such as physics to find novel solutions to problems or to improve existing solutions engineers need proficient knowledge of relevant sciences for their design projects as a result many engineers continue to learn new material throughout their careers
+if multiple solutions exist engineers weigh each design choice based on their merit and choose the solution that best matches the requirements the task of the engineer is to identify understand and interpret the constraints on a design in order to yield a successful result it is generally insufficient to build a technically successful product rather it must also meet further requirements
+constraints may include available resources physical imaginative or technical limitations flexibility for future modifications and additions and other factors such as requirements for cost safety marketability productivity and serviceability by understanding the constraints engineers derive specifications for the limits within which a viable object or system may be produced and operated
+problem solving
+a drawing for a booster engine for steam locomotives engineering is applied to design with emphasis on function and the utilization of mathematics and science
+engineers use their knowledge of science mathematics logic economics and appropriate experience or tacit knowledge to find suitable solutions to a particular problem creating an appropriate mathematical model of a problem often allows them to analyze it sometimes definitively and to test potential solutions
+usually multiple reasonable solutions exist so engineers must evaluate the different design choices on their merits and choose the solution that best meets their requirements genrich altshuller after gathering statistics on a large number of patents suggested that compromises are at the heart of lowlevel engineering designs while at a higher level the best design is one which eliminates the core contradiction causing the problem
+engineers typically attempt to predict how well their designs will perform to their specifications prior to fullscale production they use among other things prototypes scale models simulations destructive tests nondestructive tests and stress tests testing ensures that products will perform as expected
+engineers take on the responsibility of producing designs that will perform as well as expected and will not cause unintended harm to the public at large engineers typically include a factor of safety in their designs to reduce the risk of unexpected failure
+the study of failed products is known as forensic engineering and can help the product designer in evaluating his or her design in the light of real conditions the discipline is of greatest value after disasters such as bridge collapses when careful analysis is needed to establish the cause or causes of the failure
+computer use
+a computer simulation of high velocity air flow around a space shuttle orbiter during reentry solutions to the flow require modelling of the combined effects of fluid flow and the heat equations
+as with all modern scientific and technological endeavors computers and software play an increasingly important role as well as the typical business application software there are a number of computer aided applications computeraided technologies specifically for engineering computers can be used to generate models of fundamental physical processes which can be solved using numerical methods
+graphic representation of a minute fraction of the www demonstrating hyperlinks
+one of the most widely used design tools in the profession is computeraided design cad software
+it enables engineers to create d models d drawings and schematics of their designs cad together with digital mockup dmu and cae software such as finite element method analysis or analytic element method allows engineers to create models of designs that can be analyzed without having to make expensive and timeconsuming physical prototypes
+these allow products and components to be checked for flaws assess fit and assembly study ergonomics and to analyze static and dynamic characteristics of systems such as stresses temperatures electromagnetic emissions electrical currents and voltages digital logic levels fluid flows and kinematics access and distribution of all this information is generally organized with the use of product data management software
+there are also many tools to support specific engineering tasks such as computeraided manufacturing cam software to generate cnc machining instructions manufacturing process management software for production engineering eda for printed circuit board pcb and circuit schematics for electronic engineers mro applications for maintenance management and architecture engineering and construction aec software for civil engineering
+in recent years the use of computer software to aid the development of goods has collectively come to be known as product lifecycle management plm
+social context
+this section possibly contains original research please improve it by verifying the claims made and adding inline citations statements consisting only of original research should be removed july learn how and when to remove this template message
+robotic kismet can produce a range of facial expressions
+the engineering profession engages in a wide range of activities from large collaboration at the societal level and also smaller individual projects
+almost all engineering projects are obligated to some sort of financing agency a company a set of investors or a government
+the few types of engineering that are minimally constrained by such issues are pro bono engineering and opendesign engineering
+by its very nature engineering has interconnections with society culture and human behavior
+every product or construction used by modern society is influenced by engineering the results of engineering activity influence changes to the environment society and economies and its application brings with it a responsibility and public safety
+engineering projects can be subject to controversy examples from different engineering disciplines include the development of nuclear weapons the three gorges dam the design and use of sport utility vehicles and the extraction of oil in response some western engineering companies have enacted serious corporate and social responsibility policies
+engineering is a key driver of innovation and human development subsaharan africa in particular has a very small engineering capacity which results in many african nations being unable to develop crucial infrastructure without outside aidcitation needed the attainment of many of the millennium development goals requires the achievement of sufficient engineering capacity to develop infrastructure and sustainable technological development
+radar gps lidar are all combined to provide proper navigation and obstacle avoidance vehicle developed for darpa urban challenge
+all overseas development and relief ngos make considerable use of engineers to apply solutions in disaster and development scenarios a number of charitable organizations aim to use engineering directly for the good of mankind
+engineers without borders
+engineers against poverty
+registered engineers for disaster relief
+engineers for a sustainable world
+engineering for change
+engineering ministries international
+engineering companies in many established economies are facing significant challenges with regard to the number of professional engineers being trained compared with the number retiring
+this problem is very prominent in the uk where engineering has a poor image and low status there are many negative economic and political issues that this can cause as well as ethical issues it is widely agreed that the engineering profession faces an image crisis rather than it being fundamentally an unattractive career
+much work is needed to avoid huge problems in the uk and other western economies still the uk holds most engineering companies compared to other european countries together with the united states
+code of ethics
+main article engineering ethics
+many engineering societies have established codes of practice and codes of ethics to guide members and inform the public at large
+the national society of professional engineers code of ethics states
+engineering is an important and learned profession as members of this profession engineers are expected to exhibit the highest standards of honesty and integrity engineering has a direct and vital impact on the quality of life for all people accordingly the services provided by engineers require honesty impartiality fairness and equity and must be dedicated to the protection of the public health safety and welfare engineers must perform under a standard of professional behavior that requires adherence to the highest principles of ethical conduct
+in canada many engineers wear the iron ring as a symbol and reminder of the obligations and ethics associated with their profession
+relationships with other disciplines
+science
+scientists study the world as it is engineers create the world that has never been  theodore von k rm n
+engineers scientists and technicians at work on target positioner inside national ignition facility nif target chamber
+there exists an overlap between the sciences and engineering practice in engineering one applies science both areas of endeavor rely on accurate observation of materials and phenomena
+both use mathematics and classification criteria to analyze and communicate observationscitation needed
+scientists may also have to complete engineering tasks such as designing experimental apparatus or building prototypes conversely in the process of developing technology engineers sometimes find themselves exploring new phenomena thus becoming for the moment scientists or more precisely engineering scientistscitation needed
+the international space station is used to conduct science experiments in space
+in the book what engineers know and how they know it walter vincenti asserts that engineering research has a character different from that of scientific research
+first it often deals with areas in which the basic physics or chemistry are well understood but the problems themselves are too complex to solve in an exact manner
+there is a real and important difference between engineering and physics as similar to any science field has to do with technology physics is an exploratory science that seeks knowledge of principles while engineering uses knowledge for practical applications of principles the former equates an understanding into a mathematical principle while the latter measures variables involved and creates technology for technology physics is an auxiliary and in a way technology is considered as applied physics though physics and engineering are interrelated it does not mean that a physicist is trained to do an engineers job a physicist would typically require additional and relevant training physicists and engineers engage in different lines of work but phd physicists who specialize in sectors of engineering physics and applied physics are titled as technology officer rd engineers and system engineers
+an example of this is the use of numerical approximations to the navierstokes equations to describe aerodynamic flow over an aircraft or the use of the finite element method to calculate the stresses in complex components second engineering research employs many semiempirical methods that are foreign to pure scientific research one example being the method of parameter variationcitation needed
+as stated by fung et al in the revision to the classic engineering text foundations of solid mechanics
+engineering is quite different from science scientists try to understand nature engineers try to make things that do not exist in nature engineers stress innovation and invention to embody an invention the engineer must put his idea in concrete terms and design something that people can use that something can be a complex system device a gadget a material a method a computing program an innovative experiment a new solution to a problem or an improvement on what already exists since a design has to be realistic and functional it must have its geometry dimensions and characteristics data defined
+in the past engineers working on new designs found that they did not have all the required information to make design decisions most often they were limited by insufficient scientific knowledge thus they studied mathematics physics chemistry biology and mechanics often they had to add to the sciences relevant to their profession thus engineering sciences were born
+although engineering solutions make use of scientific principles engineers must also take into account safety efficiency economy reliability and constructability or ease of fabrication as well as the environment ethical and legal considerations such as patent infringement or liability in the case of failure of the solution
+medicine and biology
+a tesla clinical mri scanner
+the study of the human body albeit from different directions and for different purposes is an important common link between medicine and some engineering disciplines medicine aims to sustain repair enhance and even replace functions of the human body if necessary through the use of technology
+genetically engineered mice expressing green fluorescent protein which glows green under blue light the central mouse is wildtype
+modern medicine can replace several of the bodys functions through the use of artificial organs and can significantly alter the function of the human body through artificial devices such as for example brain implants and pacemakers the fields of bionics and medical bionics are dedicated to the study of synthetic implants pertaining to natural systems
+conversely some engineering disciplines view the human body as a biological machine worth studying and are dedicated to emulating many of its functions by replacing biology with technology this has led to fields such as artificial intelligence neural networks fuzzy logic and robotics
+there are also substantial interdisciplinary interactions between engineering and medicine
+both fields provide solutions to real world problems this often requires moving forward before phenomena are completely understood in a more rigorous scientific sense and therefore experimentation and empirical knowledge is an integral part of both
+medicine in part studies the function of the human body the human body as a biological machine has many functions that can be modeled using engineering methods
+the heart for example functions much like a pump the skeleton is like a linked structure with levers the brain produces electrical signals etc these similarities as well as the increasing importance and application of engineering principles in medicine led to the development of the field of biomedical engineering that uses concepts developed in both disciplines
+newly emerging branches of science such as systems biology are adapting analytical tools traditionally used for engineering such as systems modeling and computational analysis to the description of biological systems
+art
+leonardo da vinci seen here in a selfportrait has been described as the epitome of the artistengineer he is also known for his studies on human anatomy and physiology
+there are connections between engineering and art for example architecture landscape architecture and industrial design even to the extent that these disciplines may sometimes be included in a universitys faculty of engineering
+the art institute of chicago for instance held an exhibition about the art of nasas aerospace design robert maillarts bridge design is perceived by some to have been deliberately artistic at the university of south florida an engineering professor through a grant with the national science foundation has developed a course that connects art and engineering
+among famous historical figures leonardo da vinci is a wellknown renaissance artist and engineer and a prime example of the nexus between art and engineering
+business
+business engineering deals with the relationship between professional engineering it systems business administration and change management engineering management or management engineering is a specialized field of management concerned with engineering practice or the engineering industry sector
+the demand for managementfocused engineers or from the opposite perspective managers with an understanding of engineering has resulted in the development of specialized engineering management degrees that develop the knowledge and skills needed for these roles during an engineering management course students will develop industrial engineering skills knowledge and expertise alongside knowledge of business administration management techniques and strategic thinking
+engineers specializing in change management must have indepth knowledge of the application of industrial and organizational psychology principles and methods
+professional engineers often train as certified management consultants in the very specialized field of management consulting applied to engineering practice or the engineering sector
+this work often deals with large scale complex business transformation or business process management initiatives in aerospace and defence automotive oil and gas machinery pharmaceutical food and beverage electrical electronics power distribution generation utilities and transportation systems
+this combination of technical engineering practice management consulting practice industry sector knowledge and change management expertise enables professional engineers who are also qualified as management consultants to lead major business transformation initiatives these initiatives are typically sponsored by clevel executives
+other fields
+in political science the term engineering has been borrowed for the study of the subjects of social engineering and political engineering which deal with forming political and social structures using engineering methodology coupled with political science principles marketing engineering and financial engineering have similarly borrowed the term
+see also
+engineering portal
+main article outline of engineering
+lists
+engineering society
+list of aerospace engineering topics
+list of basic chemical engineering topics
+list of electrical engineering topics
+list of engineering topics
+list of engineers
+list of genetic engineering topics
+list of mechanical engineering topics
+list of nanoengineering topics
+list of software engineering topics
+glossaries
+glossary of areas of mathematics
+glossary of biology
+glossary of chemistry
+glossary of engineering
+glossary of physics
+related subjects
+controversies over the term engineer
+design
+earthquake engineering
+ecotechnology
+engineer
+engineering economics
+engineering education
+engineering education research
+engineers without borders
+environmental engineering science
+environmental technology
+forensic engineering
+global engineering education
+green engineering
+green building
+industrial design
+infrastructure
+mathematics
+opensource hardware
+planned obsolescence
+reverse engineering
+science
+structural failure
+sustainable engineering
+technology
+women in engineering
+references definition of engineering from the
+httpsdictionarycambridgeorgdictionaryenglish archived february at the wayback machine
+cambridge academic content dictionary   cambridge university about iaeng iaengorg international association of engineers archived from the original on january retrieved december google chrome download the fast secure browser from google archived from the original on july retrieved september engineers council for professional development canons of ethics for engineers archived from the original on september retrieved august a b c d e f g archived july at the wayback machine includes britannica article on engineering engineer oxford english dictionary online ed oxford university press subscription or participating institution membership required origin  me engin af of l ingenium nature innate quality esp mental power hence a clever invention equiv to in genium equiv to gen begetting source random house unabridged dictionary random house inc moorey peter roger stuart ancient mesopotamian materials and industries the archaeological evidence eisenbrauns isbn dt potts a companion to the archaeology of the ancient near east p a b paipetis s a ceccarelli marco the genius of archimedes  centuries of influence on mathematics science and engineering proceedings of an international conference held at syracuse italy june  springer science business media p isbn clarke somers engelbach reginald ancient egyptian construction and architecture courier corporation pp  isbn faiella graham the technology of mesopotamia the rosen publishing group p isbn archived from the original on january retrieved october a b moorey peter roger stuart ancient mesopotamian materials and industries the archaeological evidence eisenbrauns p isbn arnold dieter building in egypt pharaonic stone masonry oxford university press p isbn woods michael mary b woods ancient machines from wedges to waterwheels usa twentyfirst century books p isbn archived from the original on january retrieved october wood michael ancient machines from grunts to graffiti minneapolis mn runestone press pp isbn kemp barry j may ancient egypt anatomy of a civilisation routledge p isbn archived from the original on august retrieved august selin helaine encyclopaedia of the history of science technology and medicine in nonwesten cultures springer science business media p isbn g mokhtar january ancient civilizations of africa unesco international scientific committee for the drafting of a general history of africa p isbn retrieved june  via booksgooglecom fritz hintze kush xi pp siege warfare in ancient egypt tour egypt retrieved may bianchi robert steven daily life of the nubians greenwood publishing group p isbn humphris jane charlton michael f keen jake sauder lee alshishani fareed iron smelting in sudan experimental archaeology at the royal city of meroe journal of field archaeology doi issn collins robert o burns james m february a history of subsaharan africa cambridge university press isbn archived from the original on july retrieved september  via google books edwards david n july the nubian past an archaeology of the sudan taylor francis isbn archived from the original on july retrieved september  via google books humphris j charlton mf keen j sauder l alshishani f june iron smelting in sudan experimental archaeology at the royal city of meroe journal of field archaeology  doi the antikythera mechanism research project archived at the wayback machine the antikythera mechanism research project retrieved july quote the antikythera mechanism is now understood to be dedicated to astronomical phenomena and operates as a complex mechanical computer which tracks the cycles of the solar system wilford john july discovering how greeks computed in bc the new york times archived from the original on december retrieved february wright m t epicyclic gearing and the antikythera mechanism part antiquarian horology september  britannica on greek civilization in the th century military technology archived june at the wayback machine quote the th century by contrast had witnessed rapid innovations such as the introduction of the hoplite and the trireme which still were the basic instruments of war in the th and but it was the development of artillery that opened an epoch and this invention did not predate the th century it was first heard of in the context of sicilian warfare against carthage in the time of dionysius i of syracuse ahmad y hassan donald routledge hill islamic technology an illustrated history p cambridge university press isbn lucas adam wind water work ancient and medieval milling technology brill publishers p isbn eldridge frank wind machines nd ed new york litton educational publishing inc p isbn shepherd william electricity generation using wind power ed singapore world scientific publishing co pte ltd p isbn taqi aldin and the first steam turbine ad archived february at the wayback machine web page accessed on line october this web page refers to ahmad y hassan taqi aldin and arabic mechanical engineering pp  institute for the history of arabic science university of aleppo ahmad y hassan taqi aldin and arabic mechanical engineering p institute for the history of arabic science university of aleppo lakwete angela inventing the cotton gin machine and myth in antebellum america baltimore the johns hopkins university press pp  isbn archived from the original on april retrieved october pacey arnold technology in world civilization a thousandyear history first mit press paperback ed cambridge ma the mit press pp   molek michael andrew rethinking the industrial revolution five centuries of transition from agrarian to industrial capitalism in england brill p isbn archived from the original on december retrieved october the spinning jenny was basically an adaptation of its precursor the spinning wheel koetsier teun on the prehistory of programmable machines musical automata looms calculators mechanism and machine theory elsevier  doisx kapur ajay carnegie dale murphy jim long jason loudspeakers optional a history of nonloudspeakerbased electroacoustic music organised sound cambridge university press  dois issn scid professor noel sharkey a th century programmable robot archive university of sheffield episode ancient robots ancient discoveries history channel archived from the original on march retrieved september howard r turner science in medieval islam an illustrated introduction p university of texas press isbn donald routledge hill mechanical engineering in the medieval near east scientific american may pp  cf donald routledge hill mechanical engineering archived december at the wayback machine a b c d musson ae robinson eric h science and technology in the industrial revolution university of toronto press isbn taylor george rogers the transportation revolution  isbn a b rosen william the most powerful idea in the world a story of steam industry and invention university of chicago press isbn jenkins rhys links in the history of engineering and technology from tudor times ayer publishing p isbn tylecote rf a history of metallurgy second edition london maney publishing for the institute of materials isbn hunter louis c a history of industrial power in the united states  vol steam power charlottesville university press of virginia roe joseph wickham english and american tool builders new haven connecticut yale university press lccn archived from the original on january retrieved november hounshell david a from the american system to mass production  the development of manufacturing technology in the united states baltimore maryland johns hopkins university press isbn lccn oclc cowan ruth schwartz a social history of american technology new york oxford university press p isbn hunter louis c a history of industrial power in the united states  vol steam power charlottesville university press of virginia williams trevor i a short history of twentieth century technology us oxford university press p isbn van every kermit e aeronautical engineering encyclopedia americana vol grolier incorporated p wheeler lynde phelps josiah willard gibbs  the history of a great mind ox bow press isbn journal of the british nuclear energy society volume british nuclear energy society   snippet view archived september at the wayback machine quote in most universities it should be possible to cover the main branches of engineering ie civil mechanical electrical and chemical engineering in this way more specialized fields of engineering application of which nuclear power is the engineering profession by sir james hamilton uk engineering council quote the civilingenior degree encompasses the main branches of engineering civil mechanical electrical chemical from the internet archive indu ramchandani students britannica indiavolset popular prakashan p isbn archived from the original on december retrieved march branches there are traditionally four primary engineering disciplines civil mechanical electrical and chemical history and heritage of civil engineering asce archived from the original on february retrieved august what is civil engineering institution of civil engineers archived from the original on january retrieved may watson j garth civil engineering encyclopaedia britannica archived from the original on march retrieved april bronzino jd ed the biomedical engineering handbook crc press isbn bensaudevincent bernadette march the construction of a discipline materials science in the united states historical studies in the physical and biological sciences  doihsps archived copy pdf archived from the original pdf on september retrieved august cite web
+cs maint archived copy as title link nature jim lucas tz human august what is engineering types of engineering livesciencecom archived from the original on july retrieved september theories about engineering  genrich altshuller theoriesaboutengineeringorg archived from the original on september retrieved september comparing the engineering design process and the scientific method science buddies archived from the original on december retrieved september forensic engineering asce wwwasceorg archived from the original on april retrieved september arbe katrina may pdm not just for the big boys anymore thomasnet archived from the original on august retrieved december arbe katrina may the latest chapter in cad software evaluation thomasnet archived from the original on august retrieved december jowitt paul w engineering civilisation from the shadows pdf archived from the original pdf on october home page for emi archived april at the wayback machine engineeringukcomaboutus archived from the original on may archived copy archived from the original on june retrieved june cite web
+cs maint archived copy as title link archived copy archived from the original on october retrieved june cite web
+cs maint archived copy as title link code of ethics national society of professional engineers archived from the original on february retrieved july origin of the iron ring concept archived from the original on april retrieved august rosakis ares chair division of engineering and applied science chairs message caltech archived from the original on november retrieved october ryschkewitsch mg nasa chief engineer improving the capability to engineer complex systems  broadening the conversation on the art and science of systems engineering pdf p of archived from the original pdf on june retrieved october american society for engineering education engineering education vol american society for engineering education p archived from the original on april retrieved june the great engineer theodore von karman once said scientists study the world as it is engineers create the world that never has been today more than ever the engineer must create a world that never has been vincenti walter g what engineers know and how they know it analytical studies from aeronautical history johns hopkins university press isbn walter g whitman august paul peck whitmanpeck physics american book company p archived august at the wayback machine oclc ateneo de manila university press philippine studies vol no p relationship between physics and electrical engineering journal of the aiee  doijaiee scid puttaswamaiah future of economic science archived october at the wayback machine oxford and ibh publishing p yoseph barcohen cynthia l breazeal biologically inspired intelligent robots spie press isbn p c mor n e tremps a garc a ja somolinos the physics and its relation with the engineering inted proceedings pp  archived december at the wayback machine isbn r gazzinelli r l moreira w n rodrigues physics and industrial development bridging the gap archived august at the wayback machine world scientific p steve fuller knowledge management foundations routledge isbn p archived august at the wayback machine industrial physicists primarily specialising in engineering pdf american institute for physics october archived pdf from the original on september retrieved december classical and computational solid mechanics yc fung and p tong world scientific code of ethics national society of professional engineers wwwnspeorg archived from the original on february retrieved september ethical assessment of implantable brain chips ellen m mcgee and gq maguire jr from boston university archived from the original on april retrieved march evanspughe c may ieee technical paper foreign parts electronic body implantsby evanspughe c quote from summary feeling threatened by cyborgs iee review  doiir archived from the original on march retrieved march institute of medicine and engineering mission statement the mission of the institute for medicine and engineering ime is to stimulate fundamental research at the interface between biomedicine and engineeringphysicalcomputational sciences leading to innovative applications in biomedical research and clinical practice archived march at the wayback machine ieee engineering in medicine and biology both general and technical articles on current technologies and methods used in biomedical and clinical engineering archived from the original on february retrieved march a b royal academy of engineering and academy of medical sciences systems biology a vision for engineering and medicine in pdf quote systems biology is an emerging methodology that has yet to be defined quote it applies the concepts of systems engineering to the study of complex biological systems through iteration between computational or mathematical modelling and experimentation archived april at the wayback machine science museum of minnesota online lesson a the heart as a pump archived from the original on september retrieved september minnesota state university emuseum bones act as levers archived december at the wayback machine uc berkeley news uc researchers create model of brains electrical storm during a seizure archived from the original on february retrieved march a b bjerklie david
+the art of renaissance engineering
+mits technology review janfeb 
+article explores the concept of the artistengineer an individual who used his artistic talent in engineering quote from article da vinci reached the pinnacle of artistengineerdom quote it was leonardo da vinci who initiated the most ambitious expansion in the role of artistengineer progressing from astute observer to inventor to theoretician bjerklie a b national science foundationthe art of engineering professor uses the fine arts to broaden students engineering perspectives archived from the original on september retrieved april mit worldthe art of engineering inventor james dyson on the art of engineering quote a member of the british design council james dyson has been designing products since graduating from the royal college of art in archived july at the wayback machine university of texas at dallas the institute for interactive arts and engineering archived from the original on april retrieved march aerospace design the art of engineering from nasas aeronautical research archived from the original on august retrieved march billington david p february princeton u robert maillarts bridges the art of engineering quote no doubt that maillart was fully conscious of the aesthetic implications isbn archived from the original on april retrieved march quotethe tools of artists and the perspective of engineers archived september at the wayback machine drew u user website cites bjerklie paper archived april at the wayback machine
+further reading
+blockley david engineering a very short introduction new york oxford university press isbn dorf richard ed the engineering handbook ed boca raton crc isbn billington david p june the innovators the engineering pioneers who made america modern wiley new ed edition isbn madhavan guru applied minds how engineers think ww norton
+petroski henry march to engineer is human the role of failure in successful design vintage isbn lord charles r august guide to information sources in engineering libraries unlimited doi isbn vincenti walter g february what engineers know and how they know it analytical studies from aeronautical history the johns hopkins university press isbn external links
+the dictionary definition of engineering at wiktionary
+learning materials related to engineering at wikiversity
+quotations related to engineering at wikiquote
+works related to engineering at wikisource
+vteengineeringspecialtiesandinterdisciplinaritycivil
+architectural
+construction
+earthquake
+environmental
+geotechnical
+hydraulic
+mining
+structural
+transportation
+mechanical
+acoustical
+aerospace
+automotive
+marine
+railway
+thermal
+electrical
+computer
+outline
+control
+electromechanics
+electronics
+microwaves
+optical
+photonics
+power
+radio frequency
+telecommunications
+chemical
+biochemical
+biological
+electrochemical
+molecular
+petroleum
+process
+reaction
+other
+agricultural
+audio
+biomedical
+engineering mathematics
+engineering physics
+fire
+food
+industrial
+information
+materials science
+ceramics
+metals
+polymers
+mechatronics
+military
+nanotechnology
+nuclear
+privacy
+robotics
+sanitary
+security
+software
+systems
+genetic
+energy and environmental
+tissue
+bioresource
+engineering education
+bachelor of engineering
+master of engineering
+doctor of engineering
+engineers degree
+engineering studies
+related topics
+engineer
+history of engineering
+glossaries
+engineering
+al
+mz
+aerospace engineering
+civil engineering
+electrical and electronics engineering
+mechanical engineering
+structural engineering
+engineering branches
+category
+commons
+wikiproject
+portal
+portal
+vtephilosophy of scienceconcepts
+analysis
+analyticsynthetic distinction
+a priori and a posteriori
+causality
+commensurability
+consilience
+construct
+creative synthesis
+demarcation problem
+empirical evidence
+explanatory power
+fact
+falsifiability
+feminist method
+functional contextualism
+ignoramus et ignorabimus
+inductive reasoning
+intertheoretic reduction
+inquiry
+nature
+objectivity
+observation
+paradigm
+problem of induction
+scientific law
+scientific method
+scientific pluralism
+scientific revolution
+scientific theory
+testability
+theory choice
+theoryladenness
+underdetermination
+unity of science
+metatheoryof science
+coherentism
+confirmation holism
+constructive empiricism
+constructive realism
+constructivist epistemology
+contextualism
+conventionalism
+deductivenomological model
+hypotheticodeductive model
+inductionism
+epistemological anarchism
+evolutionism
+fallibilism
+foundationalism
+instrumentalism
+pragmatism
+modeldependent realism
+naturalism
+physicalism
+positivism reductionism determinism
+rationalism empiricism
+received view semantic view of theories
+scientific realism antirealism
+scientific essentialism
+scientific formalism
+scientific skepticism
+scientism
+structuralism
+uniformitarianism
+vitalism
+philosophy of
+physics
+thermal and statistical
+motion
+chemistry
+biology
+geography
+social science
+technology
+engineering
+artificial intelligence
+computer science
+information
+mind
+psychiatry
+psychology
+perception
+space and time
+related topics
+alchemy
+criticism of science
+descriptive science
+epistemology
+faith and rationality
+hard and soft science
+history and philosophy of science
+history of science
+history of evolutionary thought
+logic
+metaphysics
+normative science
+pseudoscience
+relationship between religion and science
+rhetoric of science
+science studies
+sociology of scientific knowledge
+sociology of scientific ignorance
+philosophers of science by eraancient
+plato
+aristotle
+stoicism
+epicureans
+epicurus
+medieval
+averroes
+avicenna
+roger bacon
+william of ockham
+hugh of saint victor
+dominicus gundissalinus
+robert kilwardby
+early modern
+francis bacon
+thomas hobbes
+ren  descartes
+galileo galilei
+pierre gassendi
+isaac newton
+david hume
+late modern
+immanuel kant
+friedrich schelling
+william whewell
+auguste comte
+john stuart mill
+herbert spencer
+wilhelm wundt
+charles sanders peirce
+wilhelm windelband
+henri poincar 
+pierre duhem
+rudolf steiner
+karl pearson
+contemporary
+alfred north whitehead
+bertrand russell
+albert einstein
+otto neurath
+c d broad
+michael polanyi
+hans reichenbach
+rudolf carnap
+karl popper
+carl gustav hempel
+w v o quine
+thomas kuhn
+imre lakatos
+paul feyerabend
+j rgen habermas
+ian hacking
+bas van fraassen
+larry laudan
+daniel dennett
+category
+philosophy portal
+science portal
+vteglossaries of science and engineering
+aerospace engineering
+agriculture
+archaeology
+architecture
+artificial intelligence
+astronomy
+biology
+botany
+calculus
+chemistry
+civil engineering
+clinical research
+computer hardware
+computer science
+ecology
+economics
+electrical and electronics engineering
+engineering
+al
+mz
+entomology
+environmental science
+evolutionary biology
+genetics
+geography
+geology
+ichthyology
+machine vision
+mathematics
+mechanical engineering
+medicine
+meteorology
+nanotechnology
+ornithology
+physics
+probability and statistics
+psychiatry
+robotics
+scientific naming
+structural engineering
+virology
+vtemajor industriesnatural sectorbioticagriculture
+arable farming
+cereals
+legumes
+vegetables
+fiber crops
+oilseeds
+sugar
+tobacco
+permanent crops
+apples et al
+berries
+citrus
+stone fruits
+tropical fruit
+viticulture
+cocoa
+coffee
+tea
+nuts
+olives
+medicinal plants
+spices
+horticulture
+flowers
+seeds
+animal husbandry
+beef cattle
+dairy farming
+fur farming
+horses
+other livestock
+pig
+wool
+poultry
+beekeeping
+cochineal
+lac
+silk
+hunting
+fur trapping
+forestry
+silviculture
+bamboo
+logging
+firewood
+rattan
+tree tapping
+frankincense
+gum arabic
+guttapercha
+maple syrup
+mastic
+natural rubber
+palm sugar syrup wine
+pine resin
+wild mushrooms
+fungiculture
+truffles
+aquatic
+fishing
+anchovies
+herring
+sardines
+cod
+haddock
+pollock
+mackerel
+shark
+swordfish
+tuna
+crabs
+lobsters
+sea urchins
+squid
+whaling
+aquaculture
+carp
+catfish
+tilapia
+abalone
+mussels
+oysters
+pearls
+microalgae
+seaweed
+both
+clams
+sea cucumbers
+scallops
+salmon
+shrimp
+geological
+fossil fuels
+coal
+peat
+natural gas
+oil shale
+petroleum
+tar sands
+mining of ores
+aluminum
+copper
+iron
+gold
+silver
+palladium
+platinum
+lithium
+rareearth metals
+uranium
+other minerals
+gemstones
+phosphorus
+potash
+salt
+sulfur
+quarrying
+gravel
+sand
+chalk
+clay
+gypsum
+limestone
+dimension stone
+granite
+marble
+industrial sectormanufacturinglight industry
+food
+animal feed
+baking
+canning
+dairy products
+flour
+meat
+prepared
+preserved
+sweets
+vegetable oils
+beverages
+beer
+bottled water
+liquor
+soft drinks
+wine
+textiles
+carding
+dyeing
+prints
+spinning
+weaving
+carpets
+lace
+linens
+rope
+clothing
+accessories
+dressmaking
+furs
+hatmaking
+sewing
+shoemaking
+tailoring
+printing
+bookbinding
+embossing
+engraving
+secure
+typesetting
+media reproduction
+cassette tapes
+phonographs
+optical discs
+metal fabrication
+boilermaking
+builders household hardware
+cutlery
+gunsmithing
+locksmithing
+machining
+other smithing
+powder metallurgy
+prefabrication
+surface finishing
+other fabrication
+d printing
+blow molding
+drawing
+extrusion
+glassblowing
+injection moulding
+pottery
+sintering
+stonemasonry
+woodworking
+furniture
+other goods
+baggage
+bicycles
+jewellery
+medical supplies
+musical instruments
+office supplies
+outdoors sports equipment
+personal protective equipment
+toys
+electrical optical
+electronics
+components
+circuit boards
+semiconductors
+computers
+computer systems
+parts peripherals
+blank storage media
+communications equipment
+mobile phones
+network infrastructure
+consumer electronics
+televisions
+video game consoles
+instrumentation
+clocks watches
+gps devices
+scientific instruments
+medical imaging systems
+optical instruments
+cameras
+gun spotting scopes
+laser construction
+lens grinding
+microscopes
+telescopes
+electrical equipment
+batteries
+electrical fiber optic cables
+electric lighting
+electric motors
+home appliances
+transformers
+chemicals
+coal oil refining
+coke
+diesel fuel
+fuel oil
+gasoline
+jet fuel
+kerosene
+propane
+mineral oil
+paraffin wax
+petrochemicals
+petroleum jelly
+synthetic oil
+asphalt
+tar
+commodity chemicals
+fertilizers
+industrial gases
+pigments
+pure elements
+speciality chemicals
+adhesives
+agrochemicals
+aroma compounds
+cleaning products
+cosmetics
+explosives
+fireworks
+paints inks
+perfumes
+soap
+toiletries
+fine chemicals
+pharmaceuticals
+antibiotics
+blood products
+chemical hormonal contraceptives
+generic drugs
+illegal drugs
+supplements
+vaccines
+materials
+leather
+liming deliming
+tanning
+currying oiling
+wood
+drying
+sawmilling
+engineered
+lumber
+composite
+paper
+sizing
+cardboard
+pulp
+tissue
+rubber
+tires
+vulcanized rubber
+plastics
+commodity
+engineered
+specialty
+pellets
+synthetic fibers
+thermoplastics thermosets
+glass
+borosilicate
+fused quartz
+sodalime
+float glass
+glass fiber
+glass wool fiberglass
+safety glass
+ceramics
+brick
+earthenware
+porcelain
+refractory
+tile
+cement
+mortar
+plaster
+readymix concrete
+other mineral
+abrasives
+carbon fibers advanced materials
+mineral wool
+synthetic gems
+metal refining
+iron
+aluminum
+copper
+alloys
+steel
+formed metal
+rolled
+forged
+cast metal
+heavy industry
+machinery
+conveyors
+heavy
+hydraulic
+machine tools
+power wind turbines
+automobiles
+other heavy vehicles
+aerospace space
+rail vehicles
+ships offshore platforms
+weapons
+utilities
+power
+electric
+gas distribution
+renewable
+water
+sewage
+waste management
+collection
+dumping
+hazardous
+recycling
+remediation
+telecom networks
+cable tv
+internet
+mobile
+satellite
+telephone
+construction
+buildings
+commercial
+industrial
+residential
+civil engineering
+bridges
+railways
+roads
+tunnels
+canals
+dams
+dredging
+harbors
+specialty trades
+cabinetry
+demolition
+electrical wiring
+elevators
+hvac
+painting and decorating
+plumbing
+site preparation
+service sectorsales
+retail
+car dealership
+consumer goods
+general store
+grocery store
+department store
+mail order
+online shopping
+specialty store
+wholesale
+auction
+brokerage
+distribution
+transport storage
+cargo
+air cargo
+intermodal
+mail
+moving company
+rail
+trucking
+passenger transport
+airlines
+car rentals
+passenger rail
+ridesharing
+taxis
+warehousing
+self storage
+hospitality
+foodservice
+drink service
+caf s
+catering
+fast food
+food delivery
+restaurants
+teahouses
+hotels
+asset management
+financial services
+banking
+credit
+financial advice
+holding company
+money transfer
+payment cards
+risk management
+securities
+insurance
+health
+life
+pension funding
+property
+reinsurance
+real estate
+brokerage
+property management
+professional
+accounting
+assurance
+audit
+bookkeeping
+tax advice
+architecture engineering
+inspection
+surveying
+physical product system testing
+design
+fashion
+interior
+product
+legal services
+management
+consulting
+public relations
+marketing
+advertising
+healthcare
+medicine
+dentist offices
+hospitals
+nursing
+residential care
+veterinary medicine
+entertainment leisure
+gambling
+online
+sport
+venues
+arcades
+amusement parks
+fairgrounds
+nightclubs
+other
+administrative
+customer service
+leasing
+renting
+staffing
+private investigation security
+maintenance
+janitors
+landscaping
+repairs
+personal services
+beauty
+dry cleaning
+funeral
+maid service
+pet care
+sex
+poverty
+travel
+business travel
+cruise lines
+tourism
+information sectorpublishing mass media
+written
+books
+periodicals
+software
+audiovisual
+film
+music
+video games
+broadcasting
+news
+radio
+television
+internet
+hosting
+social networks
+streaming
+websites
+education
+primary
+secondary
+tertiary
+vocational school
+university
+testing
+tutoring
+other
+creative
+language
+research and development
+basic research
+relatedclassification
+standards
+productionbased
+anzsic
+isic
+nace
+naics
+sic
+uksic
+marketbased
+gics
+icb
+trbc
+inputs outputs
+externalities
+community
+crime
+culture
+pollution
+wellbeing
+funding
+goods
+commodities
+final
+intermediate
+raw material
+innovation
+primary inputs
+labor
+natural resources
+physical capital
+services
+technology
+organization
+centralization
+cartel
+conglomerate
+horizontal integration
+mergers and acquisitions
+monopoly
+monopsony
+vertical integration
+decentralization
+enforced breakup
+freelancing
+homesteading
+outsourcing
+puttingout system
+spinningoff
+temporary work
+ownership
+cooperative
+jointstock company
+nationalization
+nonprofit organization
+partnership
+privatization
+sole proprietorship
+stateowned enterprise
+category
+commons
+outline
+authority control national libraries
+france data
+germany
+israel
+united states
+latvia
+japan
+other
+national archives us
+retrieved from httpsenwikipediaorgwindexphptitleengineeringoldid
+categories engineeringengineering occupationsethicsphilosophy of sciencemain topic articleshidden categories webarchive template wayback linkscs maint archived copy as titlewikipedia indefinitely semiprotected pagesuse mdy dates from january articles with short descriptionshort description matches wikidatause american english from january all wikipedia articles written in american englisharticles needing additional references from june all articles needing additional referencesarticles that may contain original research from july all articles that may contain original researchall articles with unsourced statementsarticles with unsourced statements from march articles with unsourced statements from august articles with unsourced statements from november articles with bnf identifiersarticles with gnd identifiersarticles with ju identifiersarticles with lccn identifiersarticles with lnb identifiersarticles with ndl identifiersarticles with nara identifiers
+navigation menu
+personal tools
+not logged intalkcontributionscreate accountlog in
+namespaces
+articletalk
+english
+views
+readview sourceview history
+more
+search
+navigation
+main pagecontentscurrent eventsrandom articleabout wikipediacontact usdonate
+contribute
+helplearn to editcommunity portalrecent changesupload file
+tools
+what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item
+printexport
+download as pdfprintable version
+in other projects
+wikimedia commonswikiquote
+languages
+afrikaansalemannisch           aragon s       asturianuaz rbaycanca           b nl mg                                          bikol central         boarischbosanskibrezhonegcatal cebuano e tinacymraegdanskdeutscheesti        emili n e rumagn lespa olesperantoestreme ueuskara     fran aisfryskfurlangaeilgegaelgg idhliggalego  g k y           hakk ng    hawai i             hrvatskiidoilokano                     bahasa indonesiainterlinguainterlingue      inuktitutisixhosa slenskaitaliano     jawakalaallisut     kapampangan                         kernowekkiswahilikrey l ayisyenkriy l gwiyannenkurd ladino   latinalatvie ulietuvi ligurelimburgslingua franca novalivvinkarjalalombardmagyar                malagasy               bahasa melayumirand s                nederlands                   napulitano       norsk bokm lnorsk nynorsknovialoccitan     oromooo zbekcha                       patois         polskiportugu srom n                  gagana samoa         sarduscotsshqipsicilianu     simple english    sloven inasloven  ina            srpskisrpskohrvatski               sundasuomisvenskatagalog            tatar a      tetun             tshivenda    t rk et rkmen e              v netoti ng vi tvolap kwinaray  xitsonga        zazaki emait  ka  
+edit links
+this page was last edited on march at utc
+text is available under the creative commons attributionsharealike license additional terms may apply
+by using this site you agree to the terms of use and privacy policy wikipedia  is a registered trademark of the wikimedia foundation inc a nonprofit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+mobile view
+developers
+statistics
+cookie statement
