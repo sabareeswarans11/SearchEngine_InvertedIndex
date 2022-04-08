@@ -55,7 +55,7 @@ Top matches sorted
 
 2) Search for the term ‘data’
 
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/94094997/162355439-3ffe7951-e2f3-4f97-a99a-976c3b9bd387.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/94094997/162355439-3ffe7951-e2f3-4f97-a99a-976c3b9bd387.png">
 
 
 
