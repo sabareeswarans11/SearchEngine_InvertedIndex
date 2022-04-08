@@ -49,6 +49,8 @@ Top matches sorted
 
 ## GUI – Cross Platform Application Software
 
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/94094997/162355271-6ef65b61-1232-43a2-a0ca-0fd7253c588a.png">
+1 Search for the term ‘research’
+
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/94094997/162355271-6ef65b61-1232-43a2-a0ca-0fd7253c588a.png">
 
 
