@@ -19,7 +19,7 @@ Wiki page
 Computing Similarity between the documents using Cosine similarity metrics
 Cosine similarity is a metric used to determine how similar the documents are irrespective of their size.
 
-<img width="900" alt="image" src="https://user-images.githubusercontent.com/94094997/162354683-d17d30b0-36f7-42ae-aa99-13d1b89e93d2.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/94094997/162354683-d17d30b0-36f7-42ae-aa99-13d1b89e93d2.png">
 From the above results we can conclude that,
 
 1) Doc 1 – Machine Learning,
@@ -49,8 +49,13 @@ Top matches sorted
 
 ## GUI – Cross Platform Application Software
 
-1 Search for the term ‘research’
+1) Search for the term ‘research’
 
-<img width="850" alt="image" src="https://user-images.githubusercontent.com/94094997/162355271-6ef65b61-1232-43a2-a0ca-0fd7253c588a.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/94094997/162355271-6ef65b61-1232-43a2-a0ca-0fd7253c588a.png">
+
+2) Search for the term ‘data’
+
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/94094997/162355439-3ffe7951-e2f3-4f97-a99a-976c3b9bd387.png">
+
 
 
